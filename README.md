@@ -1,8 +1,6 @@
 <h1 align="center">Hello👋, I'm Abhinav Singh</h1>
 <h3 align="center">I am a prefinal year CSE undergrad at SNU. I am passionate about webdev and mainly focused on frontend development.</h3>
 
-- 🔭 I’m currently working on **UniMarket[An ecommerce website specifically designed for SNU]**
-
 - 🌱 I’m currently exploring about **Blockchain**
 
 - 📫 How to reach me **as854@snu.edu.in**
